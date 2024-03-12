@@ -9,7 +9,7 @@ import texture3 from "../../../public/images/home-img/texture-3.png";
 import { Dancing_Script } from "next/font/google";
 import Image from "next/image";
 import OurGallery from "@/Components/OurGallery";
-import FooterSlider from "@/Components/FooterSlider";
+import FooterSLider from "@/Components/FooterSLider";
 
 const DancingScript = Dancing_Script({
   subsets: ["latin"],
@@ -38,7 +38,7 @@ const ContactUs = () => {
       <OurGallery />
 
       {/* slider */}
-      <FooterSlider />
+      <FooterSLider/>
     </Box>
   );
 };

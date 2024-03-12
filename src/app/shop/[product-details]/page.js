@@ -3,7 +3,18 @@ import AboutHeroSec from "@/Components/AboutHeroSec";
 import { CiHeart } from "react-icons/ci";
 
 import { Dancing_Script } from "next/font/google";
-import FooterSlider from "@/Components/FooterSlider";
+
+
+
+
+
+
+
+
+
+
+
+
 
 const DancingScript = Dancing_Script({
   subsets: ["latin"],
@@ -27,6 +38,7 @@ import img2 from "../../../../public/images/home-img/blogGrid2.png";
 import { React, useState } from "react";
 import Description from "@/Components/Description";
 import CardSlider from "@/Components/CardSlider";
+import FooterSLider from "@/Components/FooterSLider";
 
 const ProductDetails = () => {
   const availableProducts = 56;
@@ -387,7 +399,7 @@ const ProductDetails = () => {
           </Box>
         </Box>
       </Box>
-      <FooterSlider />
+      <FooterSLider/>
     </Box>
   );
 };
