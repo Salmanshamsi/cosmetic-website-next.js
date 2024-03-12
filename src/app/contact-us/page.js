@@ -1,3 +1,4 @@
+'use client'
 import AboutHeroSec from "@/Components/AboutHeroSec";
 import { Box, Text } from "@chakra-ui/react";
 import React from "react";

@@ -1,3 +1,4 @@
+'use client'
 import React from "react";
 import { Box, Flex, Text } from "@chakra-ui/react";
 import jeweImg from "../../public/images/home-img/Jewe2.png";

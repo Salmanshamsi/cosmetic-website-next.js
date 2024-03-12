@@ -6,6 +6,7 @@ import surfacePinkImg from "../../public/images/home-img/surface-pink.png";
 import { Dancing_Script } from "next/font/google";
 import Image from "next/image";
 import HomeFootSlider from "./HomeFootSlider";
+import message from '../../public/images/home-img/message.png'
 
 const DancingScript = Dancing_Script({
   subsets: ["latin"],
