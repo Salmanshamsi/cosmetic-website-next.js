@@ -14,7 +14,7 @@ import {
 } from "@chakra-ui/react";
 import Image from "next/image"
 import girl from "../../public/images/login-img/girl.png"
-import jewe from "../../public/images/login-img/jewe.png"
+import jewe from "../../public/images/home-img/Jewe2.png"
 import lipistic from "../../public/images/login-img/lipistic.png"
 import leaf from "../../public/images/login-img/leaf.png"
 import texture from "../../public/images/login-img/texture.png"
